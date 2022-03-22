@@ -1,6 +1,9 @@
 **Organization:   ATR**
+
 **Script:         Introduction to R Training**
+
 **Author:         ATR Data Management Department**
+
 **Script Status:  In progress**
 
 ***
