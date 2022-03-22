@@ -1,10 +1,10 @@
-**Organization:   ATR**
+Organization:   ATR
 
-**Script:         Introduction to R Training**
+Script:         Introduction to R Training
 
-**Author:         ATR Data Management Department**
+Author:         ATR Data Management Department
 
-**Script Status:  In progress**
+Script Status:  In progress
 
 ***
 
